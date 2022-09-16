@@ -1,0 +1,45 @@
+body{
+  background-color: bisque;
+}
+aa{
+  font-size: 120px;
+  color: blue;
+}
+#aa{
+  color: rgba(60, 151, 60, 0.556);
+}
+.abb{
+  height: 120px;
+  width: 120px;
+}
+#ab{
+  color: red;
+  font-size: 20px;
+}
+#ac{
+  height: 350px;
+  width: 500px;
+}
+#ad{
+  color: red;
+  font-size: 40px;
+}
+.abc{
+  color: blue;
+}
+#ae{
+  height: 50px;
+  width: 100px;
+}
+.abd{
+  height: 100px;
+  width: 100px;
+}
+#af{
+  font-size: 18px;
+  color: red;
+}
+#ag{
+  font-size: 100px;
+  color: blue;
+}
